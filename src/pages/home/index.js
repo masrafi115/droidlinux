@@ -31,7 +31,6 @@ export const Home = () => {
                         introdata.animated.second,
                         introdata.animated.third,
                         introdata.animated.fourth,
-                        introdata.animated.fifth,
                         introdata.animated.sixth,
                         introdata.animated.seventh,
                         introdata.animated.eighth
