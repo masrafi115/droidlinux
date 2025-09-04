@@ -1,11 +1,11 @@
-const logotext = "{Initials Here}";
+const logotext = "Home";
 const meta = {
-    title: "{Your name}",
-    description: "I'm {Your name}, a technologist and cybersecurity enthuist.",
+    title: "masrafi115",
+    description: "I'm masrafi115, a technologist and cybersecurity enthuist.",
 };
 
 const introdata = {
-    title: "Hi, I'm {Your Name}",
+    title: "Hi, I'm masrafi115",
     animated: {
         first: "Technologist",
         second: "Visionary",
