@@ -33,6 +33,8 @@ export const Home = () => {
                         introdata.animated.fourth,
                         introdata.animated.fifth,
                         introdata.animated.sixth,
+                        introdata.animated.seventh,
+                        introdata.animated.eighth
                       ],
                       autoStart: true,
                       loop: true,
