@@ -7,12 +7,14 @@ const meta = {
 const introdata = {
     title: "Hi, I'm masrafi115",
     animated: {
-        first: "Technologist",
+        first: "Software Developer",
         second: "Visionary",
-        third: "Ethical Hacker",
+        third: "Offensive Security Consultant",
         fourth: "Programmer",
         fifth: "Malware Developer",
         sixth: "Analyst",
+        seventh: "Full-Stack Developer",
+        eighth: "App Developer"
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
     description: "Dedicated technology enthusiast with an insatiable curiosity for unraveling the complexities of our digital world.",
