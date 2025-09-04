@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "./static/css/main.5ad079f0.css",
-    "main.js": "./static/js/main.8383e04f.js",
-    "index.html": "./index.html"
+    "main.css": "/droidlinux/static/css/main.5ad079f0.css",
+    "main.js": "/droidlinux/static/js/main.3245f42d.js",
+    "index.html": "/droidlinux/index.html"
   },
   "entrypoints": [
     "static/css/main.5ad079f0.css",
-    "static/js/main.8383e04f.js"
+    "static/js/main.3245f42d.js"
   ]
 }
